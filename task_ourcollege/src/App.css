@@ -1,0 +1,21 @@
+/* about section */
+.ab{
+  background-color:rgb(186, 198, 205) ;
+  color: black;
+  text-align: left;
+}
+
+/* home section */
+.we{
+  background-color: lightblue;
+  text-align: center;
+  color: black;
+
+}
+.bt{
+  background-color: rgb(70, 70, 209);
+  color: aqua;
+  border: none;
+  border-radius: 3px;
+  
+}
