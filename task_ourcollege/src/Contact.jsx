@@ -5,7 +5,7 @@ function Contact() {
 
             <div className="contact-info">
                 <h1>Contact Us</h1>
-                <p>📍 123 College Street, Hyderabad</p>
+                <p>😌 123 College Street, Hyderabad</p>
                 <p>📞 +91 7363636363333</p>
                 <p>✉ info@mycollege.com</p>
             </div>
@@ -15,7 +15,7 @@ function Contact() {
                     <input type="text" placeholder="Your Name" />
                     <input type="email" placeholder="Your Email" />
                     <textarea placeholder="Your Message"></textarea>
-                    <button type="submit">Send Message</button>
+                    <button class="hh" type="submit">Send Message</button>
                 </form>
             </div>
 

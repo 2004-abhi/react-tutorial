@@ -81,7 +81,8 @@ body {
 }
 
 .bt:hover {
-    background-color: #4848df;
+    /* background-color: #4848df; */
+    background-color: rgb(30, 195, 140);
 }
 
 /* About section */
@@ -192,7 +193,11 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
-
+.hh:hover{
+    background-color: rgb(30, 195, 140);
+    /* transform: translateY(-5px); */
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
 /* Footer */
 
 .footer {
