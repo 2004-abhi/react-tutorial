@@ -30,15 +30,30 @@
 
 
 
-import React from 'react'
-import Movielist from './Movielist'
+// import React from 'react'
+// import Movielist from './Movielist'
 
-export const App = () => {
+// export const App = () => {
+//   return (
+//     <div> 
+//       <h1>Movies Details.....😎</h1>
+//       <Movielist/>
+//     </div>
+//   )
+// }
+// export default App
+
+
+import React from 'react'
+import Productlist from './Productlist'
+const App = () => {
   return (
-    <div> 
-      <h1>Movies Details.....😎</h1>
-      <Movielist/>
+    <div>
+      <h1>Product Details....👽</h1>
+      <hr />
+      <Productlist/>
     </div>
   )
 }
+
 export default App
