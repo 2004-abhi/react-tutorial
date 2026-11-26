@@ -36,13 +36,30 @@
 
 // export default App
 
+// import React from 'react'
+// import Counter from './Counter'
+// const App = () => {
+//   return (
+//     <div>Count the Numbers ........ 🫡
+//       <Counter/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+
 import React from 'react'
-import Counter from './Counter'
+import Task1 from './statetasks/Task1'
+import Task2 from './statetasks/Task2'
+import Task3 from './statetasks/Task3'
+
 const App = () => {
   return (
-    <div>Count the Numbers ........ 🫡
-      <Counter/>
+    <div>Details.....😏
+      <Task3/>
     </div>
+    
   )
 }
 
