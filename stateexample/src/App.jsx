@@ -53,11 +53,13 @@ import React from 'react'
 import Task1 from './statetasks/Task1'
 import Task2 from './statetasks/Task2'
 import Task3 from './statetasks/Task3'
+import Task4 from './statetasks/Task4'
+import Shopping from './Shopping'
 
 const App = () => {
   return (
-    <div>Details.....😏
-      <Task3/>
+    <div>
+      <Shopping/>
     </div>
     
   )
